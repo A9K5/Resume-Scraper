@@ -44,5 +44,13 @@ List2.csv
 
 This project uses Python3.
 
+##### Packages used
+
+- PyPDF2
+- pdfminer
+- pandas
+
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
