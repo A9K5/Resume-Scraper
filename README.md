@@ -3,6 +3,18 @@
 
 <img src="https://img.shields.io/badge/Python-3.8.0-blue.svg">
 
+<img src="https://img.shields.io/badge/numpy-1.17.4-blue.svg">
+
+<img src="https://img.shields.io/badge/pandas-0.25.3-blue.svg">
+
+<img src="https://img.shields.io/badge/pdfminer.6-20200517-blue.svg">
+
+<img src="https://img.shields.io/badge/pdfminer3-2018.12.3.0-blue.svg">
+
+<img src="https://img.shields.io/badge/pyPdf-1.13-blue.svg">
+
+<img src="https://img.shields.io/badge/pyPDF2-1.26.0-blue.svg">
+
 <img src="https://img.shields.io/badge/made%20by-A9K5-green.svg" >
 
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
